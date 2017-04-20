@@ -1,0 +1,5 @@
+<Thu, Apr 13, 19:02> Izzy mini uber count is 1 even brains = true Area[Harrogath]
+<Thu, Apr 13, 19:25> Duriel mini uber count is 1 even eyes = true Area[Harrogath]
+<Thu, Apr 13, 20:00> Izzy mini uber count is 1 even brains = true Area[Harrogath]
+<Thu, Apr 13, 20:10> Duriel mini uber count is 1 even eyes = true Area[Harrogath]
+<Fri, Apr 14, 02:57> Izzy mini uber count is 1 even brains = true Area[Harrogath]
